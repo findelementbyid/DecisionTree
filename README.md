@@ -4,7 +4,7 @@
 
 Course: Data Mining Research & Practice (NCTU)
 
-This project is the 2st homework of this course.
+This project is the 2nd homework of this course.
 
 The topic of this project is that using decision tree classifier to predict someone will whether dead in tv series Game of Thrones.
 
